@@ -1,5 +1,5 @@
 <!--
-name: "node-js-padawan"
+name: node-js-padawan
 version : "0.0.2"
 title : "7 Tips for a Node.js Padawan"
 description: "What I wish I knew when I started."
