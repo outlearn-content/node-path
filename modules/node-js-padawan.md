@@ -25,7 +25,7 @@ When you first get started with Node.js development, one of the things that will
 
 Luckily I discovered a great tool called [Nodemon](https://github.com/remy/nodemon).
 
-<!-- @REMOVETHISlink, "url" : "https://github.com/remy/nodemon", "task" : "Install Nodemon by running npm install -g nodemon." -->
+
 
 Nodemon is an awesome tool, once you install it globally you can run your node.js scripts via nodemon [file].js. Doing so will tell nodemon to monitor your script and all the scripts that it depends on for changes. This is an awesome way to do Node.js development and speeds everything up.
 
@@ -33,7 +33,7 @@ What about production? Unless you are using Heroku, Nodejitsu or other great Nod
 
 The answer to that question is a great tool called [PM2](https://github.com/Unitech/pm2).
 
-<!-- @REMOVETHISlink, "url" : "https://github.com/Unitech/pm2", "task" : "Install PM2." -->
+
 
 PM2 is a tool like nodemon which is intended to run your node app in production. Like Nodemon it will monitor your app for changes and redeploy them, but unlike Nodemon, if PM2 encounters a crash, it will restart your node.js app right away.
 
@@ -85,7 +85,7 @@ How do you do this then? There are two competing libraries out there, async.js a
 
 [Async.js](https://github.com/caolan/async) or “async” allows you to easily execute functions in series or parallel without the need of nesting them back to back.
 
-<!-- @REMOVETHISlink, "url" : "https://github.com/caolan/async", "task" : "Install Async.js." -->
+
 
 Below are some of the patterns that Async supports taken from their readme. For a list of all the patterns async supports check out their repo.
 
@@ -128,7 +128,7 @@ If we take what we did previously with register, we can apply the waterfall patt
 
 [Another great library is Q](https://github.com/kriskowal/q). This library is exposes the concept of promises. A promise is basically an object that is returned from a method with the “promise” that it will eventually provide a return value. This ties is very neatly with the asynchronous nature of javascript and node.js.
 
-<!-- @REMOVETHISlink, "url" : "https://github.com/kriskowal/q", "task" : "Install Q." -->
+
 
 For example, taken from Q’s repo page.
 
@@ -179,7 +179,7 @@ Node-inspector lets you do some really cool things like live code changing, step
 
 It’s bit involved to setup, so I’ll let you [follow the instructions yourself](https://github.com/node-inspector/node-inspector).
 
-<!-- @REMOVETHISlink, "url" : "https://github.com/node-inspector/node-inspector", "task" : "Install node-inspector." -->
+
 
 
 
