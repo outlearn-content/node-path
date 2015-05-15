@@ -18,7 +18,7 @@ Whereas you could run the code in previous chapters directly on these pages, sin
 
 If you want to follow along and run the code in this chapter, start by going to nodejs.org and following the installation instructions for your operating system. Also refer to that website for further documentation about Node and its built-in modules.
 
-<!-- @link, "url" : "http://nodejs.org", "task" : "Install Node.js for your operating system." -->
+<!-- @link, "url" : "https://nodejs.org", "task" : "Install Node.js for your operating system." -->
 
 <!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"multiple_choice\": \"The code samples in this chapter cannot be run directly in the browser because\", \"answers\" : [ \"They are raw JavaScript\", \"They require Node.\", \"Because they only work on the newest browsers.\" ], \"correct\" : 1 }"-->
 
