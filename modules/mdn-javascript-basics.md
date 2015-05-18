@@ -321,5 +321,3 @@ If you have followed all the instructions in this article, you should end up wit
 If you get stuck, you can always compare your work with our [finished example code on Github](https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js).
 
 Here, we have only really scratched the surface of JavaScript. If you have enjoyed learning about it and want to go deeper with your studies, go to our [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
-
-<!-- @REMOVETHISlink, "url" : "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide", "task" : "Check out our JavaScript Guide." -->
