@@ -22,6 +22,9 @@
   ],
 
   "modules" : [
+    {
+      "olm" : "./modules/node-video.md"
+    }
   ],
 
   "assets" : [
