@@ -2,11 +2,23 @@
   "olpVersion" : "0.1",
 
   "paths" : [
+    {
+      "name" : "node-path",
+      "title" : "JavaScript Backends with Nodejs",
+      "description" : "Follow the node path to greater enlightenment.",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./context-pages/welcome.md"}
+      ]
+    }
   ],
 
   "modules" : [
     {
       "olm" : "./modules/mdn-javascript-basics.md"
+    },
+    {
+      "olm" : "./modules/node-video.md"
     },
     {
       "olm" : "./modules/eloquent-node.md"
