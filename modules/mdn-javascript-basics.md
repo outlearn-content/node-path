@@ -5,6 +5,7 @@ title : "JavaScript Basics"
 description: "JavaScript is a programming language that adds interactivity to your website (e.g. games, responses when buttons are pressed or data entered in forms, dynamic styling, animation). This article helps you get started with this exciting language and gives you an idea of what is possible."
 homepage : "https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics"
 author : "Mozilla Developer Network"
+freshnessDate : 2015-04-22
 license : "CC BY-SA",
 -->
 

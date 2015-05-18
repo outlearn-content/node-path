@@ -5,6 +5,7 @@ title : "Eloquent JavaScript - Chapter 20 Node.js"
 description: "This is a book about JavaScript, programming, and the wonders of the digital."
 homepage : "http://eloquentjavascript.net/"
 author : "Marijn Haverbeke"
+freshnessDate : 2014-12-14
 license : "CC BY-NC",
 contact : "info@eloquentjavascript.net"
 -->

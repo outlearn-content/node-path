@@ -5,6 +5,7 @@ title : "Node.js with Express.js"
 description: "This is an introduction to Node.js using the latest updates to the Express.js framework."
 homepage : "http://www.learncode.academy"
 author : "LearnCode.academy"
+freshnessDate : 2014-04-20
 license : "Standard Youtube License"
 url : "http://www.learncode.academy"
 -->
