@@ -6,7 +6,7 @@ description: "This is a book about JavaScript, programming, and the wonders of t
 homepage : "http://eloquentjavascript.net/"
 author : "Marijn Haverbeke"
 freshnessDate : 2014-12-14
-license : "CC BY-NC",
+license : "CC BY-NC"
 contact : "info@eloquentjavascript.net"
 -->
 
