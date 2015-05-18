@@ -23,6 +23,9 @@
 
   "modules" : [
     {
+      "olm" : "./modules/mdn-javascript-basics.md"
+    },
+    {
       "olm" : "./modules/node-video.md"
     }
   ],
