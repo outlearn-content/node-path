@@ -7,7 +7,6 @@ homepage : "http://eloquentjavascript.net/"
 author : "Marijn Haverbeke"
 freshnessDate : 2014-12-14
 license : "CC BY-NC"
-contact : "info@eloquentjavascript.net"
 -->
 
 <!-- @section, "title": "Getting going" -->
