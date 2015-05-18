@@ -22,6 +22,18 @@
   ],
 
   "modules" : [
+    {
+      "olm" : "./modules/mdn-javascript-basics.md"
+    },
+    {
+      "olm" : "./modules/node-video.md"
+    },
+    {
+      "olm" : "./modules/eloquent-node.md"
+    },
+    {
+      "olm" : "./modules/node-js-padawan.md"
+    }
   ],
 
   "assets" : [
