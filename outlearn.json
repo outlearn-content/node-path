@@ -22,9 +22,6 @@
   ],
 
   "modules" : [
-    {
-      "olm" : "./modules/lab.md"
-    }
   ],
 
   "assets" : [
