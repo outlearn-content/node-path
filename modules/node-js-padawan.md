@@ -2,8 +2,8 @@
 name: node-js-padawan
 version : 0.0.1
 title : "7 Tips for a Node.js Padawan"
-description: "This is an introduction to Node.js using the latest updates to the Express.js framework."
-homepage : "http://www.learncode.academy"
+description: "What I wish I knew when I started."
+homepage : "https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c"
 author : "LearnCode.academy"
 freshnessDate : 2014-04-20
 license : "Standard Youtube License"
