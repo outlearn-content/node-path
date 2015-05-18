@@ -1,19 +1,22 @@
 {
-  "olpVersion" : "0.1",
+  "olpVersion" : "0.5",
 
   "paths" : [
     {
-      "name" : "node-path",
-      "title" : "JavaScript Backends with Nodejs",
-      "description" : "Follow the node path to greater enlightenment.",
+      "name" : "videojs",
+      "title" : "Get Going with ES6 in VideoJS",
+      "description" : "An introduction to new ES6 features in VideoJS",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/videojs/master/assets/videojslogo.png",
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
-        {"module" : "outlearn://bob/mdn-javascript-basics"},
-        {"module" : "outlearn://bob/node-video"},
-        {"module" : "outlearn://bob/eloquent-node"},
-        {"page" : "./context-pages/tips-and-tricks.md"},
-        {"module" : "outlearn://bob/node-js-padawan"},
+        {"module" : "outlearn://lukehoban/selections-for-videojs"},
+        {"module" : "outlearn://babeljs/modules"},
+        {"module" : "outlearn://mdn/es6-classes"},
+        {"module" : "outlearn://babeljs/es6-repl"},
+        {"module" : "outlearn://lukehoban/es6features"},
+        {"page" : "./context-pages/try-it.md"},
+        {"module" : "outlearn://videojs/lab"},
         {"page" : "./context-pages/live-long.md"}
       ]
     }
@@ -21,16 +24,7 @@
 
   "modules" : [
     {
-      "olm" : "./modules/mdn-javascript-basics.md"
-    },
-    {
-      "olm" : "./modules/node-video.md"
-    },
-    {
-      "olm" : "./modules/eloquent-node.md"
-    },
-    {
-      "olm" : "./modules/node-js-padawan.md"
+      "olm" : "./modules/lab.md"
     }
   ],
 
