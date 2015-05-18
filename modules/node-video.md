@@ -7,7 +7,7 @@ homepage : "http://www.learncode.academy"
 author : "LearnCode.academy"
 freshnessDate : 2014-04-20
 license : "Standard Youtube License"
-url : "http://www.learncode.academy"
+_url : "http://www.learncode.academy"
 -->
 
 <!-- @section -->
