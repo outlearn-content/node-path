@@ -8,13 +8,13 @@
       "description" : "Follow the node path to greater enlightenment.",
       "privacy" : "public",
       "pages" : [
-        {"title" : "Introduction", "content" : "./context-pages/welcome.md"},
+        {"page" : "./context-pages/welcome.md"},
         {"module" : "mdn-javascript-basics"},
         {"module" : "node-video"},
         {"module" : "eloquent-node"},
-        {"title" : "Real-World Tips and Tricks", "content" : "./context-pages/tips-and-tricks.md"},
+        {"page" : "./context-pages/tips-and-tricks.md"},
         {"module" : "node-js-padawan"},
-        {"title" : "Live Long and Prosper with Node", "content" : "./context-pages/live-long.md"}
+        {"page" : "./context-pages/live-long.md"}
       ]
     }
   ],
