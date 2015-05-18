@@ -1,7 +1,7 @@
 <!--
-name: node-video
+name: node-js-padawan
 version : 0.0.1
-title : "Node.js with Express.js"
+title : "7 Tips for a Node.js Padawan"
 description: "This is an introduction to Node.js using the latest updates to the Express.js framework."
 homepage : "http://www.learncode.academy"
 author : "LearnCode.academy"
