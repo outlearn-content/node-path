@@ -1,7 +1,23 @@
 {
   "olpVersion" : "0.1",
 
-
+  "paths" : [
+    {
+      "name" : "node-path",
+      "title" : "JavaScript Backends with Nodejs",
+      "description" : "Follow the node path to greater enlightenment.",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./context-pages/welcome.md"},
+        {"module" : "outlearn://bob/mdn-javascript-basics"},
+        {"module" : "outlearn://bob/node-video"},
+        {"module" : "outlearn://bob/eloquent-node"},
+        {"page" : "./context-pages/tips-and-tricks.md"},
+        {"module" : "outlearn://bob/node-js-padawan"},
+        {"page" : "./context-pages/live-long.md"}
+      ]
+    }
+  ],
 
   "modules" : [
     {
