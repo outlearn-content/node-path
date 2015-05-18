@@ -7,6 +7,7 @@ homepage : "http://www.learncode.academy"
 author : "LearnCode.academy"
 freshnessDate : 2014-04-20
 license : "Standard Youtube License"
+_url : "http://www.learncode.academy"
 -->
 
 <!-- @section -->
@@ -26,3 +27,12 @@ We're going to cover the difference between JavaScript in a browser vs JavaScrip
 To wrap it up, we're going to spin up a quick web server in Node.js just to show you how easy it is.
 
 <!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Summarize Node.js\", \"deliverable\" : \"Write a one-paragraph summary of what Node.js is and paste it here.\" }"-->
+
+<!-- @section -->
+
+# Node.js tutorial for beginners 2014 - an introduction to Node.js with Express.js
+
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/FqMIyTH9wSg" -->
+
+
+This video is an introduction to Node.js using the latest updates to the Express.js framework. Node.js is an amazing web framework that makes web development and engineering tons of fun.

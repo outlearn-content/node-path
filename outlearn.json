@@ -9,9 +9,6 @@
       "olm" : "./modules/mdn-javascript-basics.md"
     },
     {
-      "olm" : "./modules/node-video.md"
-    },
-    {
       "olm" : "./modules/eloquent-node.md"
     },
     {
