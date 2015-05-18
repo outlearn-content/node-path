@@ -9,11 +9,11 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./context-pages/welcome.md"},
-        {"module" : "mdn-javascript-basics"},
-        {"module" : "node-video"},
-        {"module" : "eloquent-node"},
+        {"module" : "./modules/mdn-javascript-basics"},
+        {"module" : "./modules/node-video"},
+        {"module" : "./modules/eloquent-node"},
         {"page" : "./context-pages/tips-and-tricks.md"},
-        {"module" : "node-js-padawan"},
+        {"module" : "./modules/node-js-padawan"},
         {"page" : "./context-pages/live-long.md"}
       ]
     }
