@@ -191,7 +191,7 @@ Once you have your application up and running, you might ask yourself how you co
 
 Nodefly with a simple line of code starts to monitor your application for memory leaks, measure how long it takes for redis, mongo queries and a bunch of other cool stuff.
 
-<!-- @link, "url" : "https://strongloop.com/strongblog/strongloop-acquires-the-assets-of-nodefly/", "task" : "Read about Nodefly." -->
+<!-- @link, "url" : "https://strongloop.com/strongblog/strongloop-acquires-the-assets-of-nodefly/", "text" : "Read about Nodefly." -->
 
 
 <!-- @section -->
