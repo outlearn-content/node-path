@@ -646,7 +646,8 @@ Change urlToPath to fix this problem. Take into account the fact that Node on Wi
 
 Also, meditate on the fact that as soon as you expose some half-baked system on the Internet, the bugs in that system might be used to do bad things to your machine.
 
-<!-- @task, "hasDeliverable" : true, text" : "Complete the Fixing a leak exercise and paste in your code."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Complete the Fixing a leak exercise and paste in your code."-->
+
 
 ## Creating directories
 
@@ -654,7 +655,7 @@ Though the DELETE method is wired up to delete directories (using fs.rmdir), the
 
 Add support for a method MKCOL, which should create a directory by calling fs.mkdir. MKCOL is not one of the basic HTTP methods, but it does exist, for this same purpose, in the WebDAV standard, which specifies a set of extensions to HTTP, making it suitable for writing resources, not just reading them.
 
-<!-- @task, "hasDeliverable" : true, text" : "Complete the Creating directories exercise and paste in your code."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Complete the Creating directories exercise and paste in your code."-->
 
 
 
@@ -675,4 +676,4 @@ Don’t work directly in the code on the file server, since if you make a mistak
 If your computer is directly connected to the Internet, without a firewall, router, or other interfering device in between, you might be able to invite a friend to use your website. To check, go to whatismyip.com, copy the IP address it gives you into the address bar of your browser, and add :8000 after it to select the right port. If that brings you to your site, it is online for everybody to see.
 
 
-<!-- @task, "hasDeliverable" : true, text" : "Complete the A public space on the web exercise and paste in your code."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Complete the A public space on the web exercise and paste in your code."-->
