@@ -617,7 +617,7 @@ Do this again, using Node’s http.request function. Ask for at least the media 
 
 Write out the content of the responses to each request.
 
-<!-- @task, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Complete the Content negotiation, again exercise.\", \"deliverable\" : \"Paste below the code that solves Content negotiation, again exercise.\" }"-->
+<!-- @task, "text" : "Complete the Content negotiation, again exercise and paste in your code."-->
 
 ## Fixing a leak
 
