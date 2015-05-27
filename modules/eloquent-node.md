@@ -617,7 +617,7 @@ Do this again, using Node’s http.request function. Ask for at least the media 
 
 Write out the content of the responses to each request.
 
-<!-- @task, "text" : "Complete the Content negotiation, again exercise and paste in your code."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Complete the Content negotiation, again exercise and paste in your code."-->
 
 ## Fixing a leak
 
