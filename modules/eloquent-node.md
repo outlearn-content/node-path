@@ -94,7 +94,7 @@ $ node
 $
 ```
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Run node and try executing some commands of your choice.\" }"-->
+<!-- @task, "text" : "Run node and try executing some commands of your choice."-->
 
 The process variable, just like the console variable, is available globally in Node. It provides various ways to inspect and manipulate the current program. The exit method ends the process and can be given an exit status code, which tells the program that started node (in this case, the command-line shell) whether the program completed successfully (code zero) or encountered an error (any other code).
 
@@ -105,7 +105,7 @@ $ node showargv.js one --and two
 ["node", "/home/marijn/showargv.js", "one", "--and", "two"]
 ```
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Create and run showargv.js as described in the text.\" }"-->
+<!-- @task, "text" : "Create and run showargv.js as described in the text."-->
 
 All the standard JavaScript global variables, such as Array, Math, and JSON, are also present in Node’s environment. Browser-related functionality, such as document and alert, is absent.
 
@@ -155,7 +155,7 @@ $ node main.js JavaScript
 Of{fXhwnuy
 ```
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Write main.js and garble.js and try running them.\" }"-->
+<!-- @task, "text" : "Write main.js and garble.js and try running them."-->
 
 <!-- @section -->
 
@@ -197,11 +197,10 @@ There is much more to NPM than npm install. It reads package.json files, which c
 
 This book won’t delve further into the details of NPM usage. Refer to [npmjs.org](http://npmjs.org) for further documentation and for an easy way to search for libraries.
 
-<!-- @REMOVETHISlink, "url" : "http://npmjs.org", "task" : "Read about npm." -->
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Install figlet.\" }"-->
+<!-- @task, "text" : "Install figlet."-->
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Install another Node module you find at npmjs.org.\" }"-->
+<!-- @task, "text" : "Install another Node module you find at npmjs.org."-->
 
 <!-- @section -->
 
@@ -234,9 +233,9 @@ fs.readFile("file.txt", function(error, buffer) {
 
 <!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"multiple_choice\": \"If you do not provide an encoding to the readFile() method, the system will\", \"answers\" : [ \"Use `utf8` as the default.\", \"Throw an error.\", \"Not return a string.\" ], \"correct\" : 2 }"-->
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Read in a file encoded in UTF-8 using fs.\" }"-->
+<!-- @task, "text" : "Read in a file encoded in UTF-8 using fs."-->
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Read in a binary file.\" }"-->
+<!-- @task, "text" : "Read in a binary file."-->
 
 A similar function, writeFile, is used to write a file to disk.
 
@@ -253,12 +252,12 @@ fs.writeFile("graffiti.txt", "Node was here", function(err) {
 Here, it was not necessary to specify the encoding since writeFile will assume that if it is given a string to write, rather than a Buffer object, it should write it out as text using its default character encoding, which is UTF-8.
 
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Write a file using fs.writeFile.\", \"deliverable\" : \"Paste below your code that writes a file using fs.writeFile.\" }"-->
+<!-- @task, "hasDeliverable" : true, "text" : "Paste in your code that writes a file using fs.writeFile."-->
 
 The "fs" module contains many other useful functions: readdir will return the files in a directory as an array of strings, stat will retrieve information about a file, rename will rename a file, unlink will remove one, and so on. See the documentation at nodejs.org for specifics.
 
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Print all the files in a directory using fs.readdir.\" }"-->
+<!-- @task, "text" : "Print all the files in a directory using fs.readdir."-->
 
 Many of the functions in "fs" come in both synchronous and asynchronous variants. For example, there is a synchronous version of readFile called readFileSync.
 
@@ -290,7 +289,7 @@ server.listen(8000);
 
 If you run this script on your own machine, you can point your web browser at http://localhost:8000/hello to make a request to your server. It will respond with a small HTML page.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Start an HTTP server using the sample above.\" }"-->
+<!-- @task, "text" : "Start an HTTP server using the sample above."-->
 
 The function passed as an argument to createServer is called every time a client tries to connect to the server. The request and response variables are objects representing the incoming and outgoing data. The first contains information about the request, such as its url property, which tells us to what URL the request was made.
 
@@ -377,7 +376,7 @@ request.end("Hello server");
 
 The example writes to process.stdout (the process’ standard output, as a writable stream) instead of using console.log. We can’t use console.log because it adds an extra newline character after each piece of text that it writes, which isn’t appropriate here.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Run the example script on your machine.\" }"-->
+<!-- @task, "text" : "Run the example script on your machine."-->
 
 <!-- @section -->
 
@@ -536,7 +535,7 @@ File not found
 
 The first request for file.txt fails since the file does not exist yet. The PUT request creates the file, and behold, the next request successfully retrieves it. After deleting it with a DELETE request, the file is again missing.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Test the server with the sample curl commands.\" }"-->
+<!-- @task, "text" : "Test the server with the sample curl commands."-->
 
 <!-- @section -->
 
@@ -618,7 +617,7 @@ Do this again, using Node’s http.request function. Ask for at least the media 
 
 Write out the content of the responses to each request.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Complete the Content negotiation, again exercise.\", \"deliverable\" : \"Paste below the code that solves Content negotiation, again exercise.\" }"-->
+<!-- @task, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Complete the Content negotiation, again exercise.\", \"deliverable\" : \"Paste below the code that solves Content negotiation, again exercise.\" }"-->
 
 ## Fixing a leak
 
@@ -647,7 +646,7 @@ Change urlToPath to fix this problem. Take into account the fact that Node on Wi
 
 Also, meditate on the fact that as soon as you expose some half-baked system on the Internet, the bugs in that system might be used to do bad things to your machine.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Complete the Fixing a leak exercise.\", \"deliverable\" : \"Paste below the code that solves Fixing a leak exercise.\" }"-->
+<!-- @task, "hasDeliverable" : true, text" : "Complete the Fixing a leak exercise and paste in your code."-->
 
 ## Creating directories
 
@@ -655,7 +654,9 @@ Though the DELETE method is wired up to delete directories (using fs.rmdir), the
 
 Add support for a method MKCOL, which should create a directory by calling fs.mkdir. MKCOL is not one of the basic HTTP methods, but it does exist, for this same purpose, in the WebDAV standard, which specifies a set of extensions to HTTP, making it suitable for writing resources, not just reading them.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Complete the Creating directories exercise.\", \"deliverable\" : \"Paste below the code that solves Creating directories exercise.\" }"-->
+<!-- @task, "hasDeliverable" : true, text" : "Complete the Creating directories exercise and paste in your code."-->
+
+
 
 ## A public space on the web
 
@@ -673,4 +674,5 @@ Don’t work directly in the code on the file server, since if you make a mistak
 
 If your computer is directly connected to the Internet, without a firewall, router, or other interfering device in between, you might be able to invite a friend to use your website. To check, go to whatismyip.com, copy the IP address it gives you into the address bar of your browser, and add :8000 after it to select the right port. If that brings you to your site, it is online for everybody to see.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Complete the A public space on the web exercise.\", \"deliverable\" : \"Paste below the code that solves A public space on the web exercise.\" }"-->
+
+<!-- @task, "hasDeliverable" : true, text" : "Complete the A public space on the web exercise and paste in your code."-->
