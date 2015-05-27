@@ -11,7 +11,7 @@
         {"page" : "./pages/welcome.md"},
         {"module" : "mdn/re-introduction"},
         {"module" : "node-video"},
-        {"module" : "eloquent-node"},
+        {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "node-js-padawan"},
         {"page" : "./pages/live-long.md"}
@@ -22,9 +22,6 @@
   "modules" : [
     {
       "olm" : "./modules/node-video.md"
-    },
-    {
-      "olm" : "./modules/eloquent-node.md"
     },
     {
       "olm" : "./modules/node-js-padawan.md"
