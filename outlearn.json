@@ -22,9 +22,6 @@
   "modules" : [
     {
       "olm" : "./modules/node-video.md"
-    },
-    {
-      "olm" : "./modules/node-js-padawan.md"
     }
   ],
 
