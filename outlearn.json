@@ -13,7 +13,7 @@
         {"module" : "node-video"},
         {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
-        {"module" : "node-js-padawan"},
+        {"module" : "FaisalAbid/node-js-padawan"},
         {"page" : "./pages/live-long.md"}
       ]
     }
