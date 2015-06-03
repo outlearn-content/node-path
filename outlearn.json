@@ -9,7 +9,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "mdn/re-introduction"},
+        {"module" : "mozilla-developer-network/re-introduction"},
         {"module" : "node-video"},
         {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
