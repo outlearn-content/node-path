@@ -10,7 +10,7 @@
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "mozilla-developer-network/re-introduction"},
-        {"module" : "node-video"},
+        {"module" : "learncodeacademy/node-video"},
         {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
@@ -21,9 +21,6 @@
   ],
 
   "modules" : [
-    {
-      "olm" : "./modules/node-video.md"
-    }
   ],
 
   "assets" : [
