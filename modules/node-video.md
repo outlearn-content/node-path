@@ -43,7 +43,7 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 Now that you have watched the intro videos, it's time for you to learn a little bit about the future of Node.js and its community.
 
-<!-- @link, "url" : "https://www.joyent.com/developers/videos/node-js-on-the-road-boston-tj-fontaine/", "text": "Watch The State of Node.js & Beyond" -->
+<!-- @link, "url" : "http://www.slideshare.net/sh1mmer/a-million-connections-and-beyond-nodejs-at-scale", "text": "Watch The State of Node.js & Beyond" -->
 
 
 <!-- @task, "hasDeliverable" : true, "text" : "Write a paragraph of what you learned from The State of Node.js & Beyond."-->
