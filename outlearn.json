@@ -7,6 +7,7 @@
       "title" : "JavaScript Backends with Nodejs",
       "description" : "Follow the node path to greater enlightenment.",
       "privacy" : "public",
+      "socialBar" : 1,
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "mozilla-developer-network/re-introduction"},
