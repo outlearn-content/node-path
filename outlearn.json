@@ -4,7 +4,7 @@
   "paths" : [
     {
       "name" : "node-path",
-      "title" : "JavaScript Backends with Nodejs",
+      "title" : "JavaScript Backends with Node.js",
       "description" : "Follow the node path to greater enlightenment.",
       "privacy" : "public",
       "socialBar" : true,
