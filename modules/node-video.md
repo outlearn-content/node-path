@@ -39,15 +39,12 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 <!-- @section -->
 
-# Pick Another Awesome Node.js Video
+# Node.js on the Road: The State of Node.js & Beyond
 
-Now that you have watched the intro videos, it's time for you to explore a few more on your own. Pick one of the Node.js On the Road videos below an then come back and report what you learned.
+Now that you have watched the intro videos, it's time for you to learn a little bit about the future of Node.js and its community.
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/473484093" -->
-<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/93334324" -->
-<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/93336390" -->
-<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/98768022" -->
+<!-- @link, "url" : "https://www.joyent.com/developers/videos/node-js-on-the-road-boston-tj-fontaine/", "text": "Watch The State of Node.js & Beyond" -->
 
 
-<!-- @task, "hasDeliverable" : true, "text" : "Write the title of the video that you viewed and write a paragraph of what you learned."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Write a paragraph of what you learned from The State of Node.js & Beyond."-->
 
