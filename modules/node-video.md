@@ -39,11 +39,15 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 <!-- @section -->
 
-# Find Another Awesome Node.js Video
+# Pick Another Awesome Node.js Video
 
-Now that you have watched these videos, it's time for you to explore a few more on your own. Visit the link below to view other videos about Node.js, then come back and report your findings.
+Now that you have watched the intro videos, it's time for you to explore a few more on your own. Pick one of the Node.js On the Road videos below an then come back and report what you learned.
 
-<!-- @link, "url" : "https://www.joyent.com/noderoad/videos", "text": "Find a Node.js on the Road video that you like." -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/473484093" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/93334324" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/93336390" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "vimeo", "url": "https://player.vimeo.com/video/98768022" -->
 
-<!-- @task, "hasDeliverable" : true, "text" : "Paste the title of the video that you liked, and paste in your favorite passage from the transcript that is shown below the video player."-->
+
+<!-- @task, "hasDeliverable" : true, "text" : "Write the title of the video that you viewed and write a paragraph of what you learned."-->
 
