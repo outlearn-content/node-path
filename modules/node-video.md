@@ -45,5 +45,5 @@ Now that you have watched these videos, it's time for you to explore a few more 
 
 <!-- @link, "url" : "https://www.joyent.com/noderoad/videos", "text": "Find a Node.js on the Road video that you like." -->
 
-<!-- @task, "hasDeliverable" : true, "text" : "Paste the page URL of the Node.js on the Road video you like, and include a paragraph about what you like about it."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Paste the title of the video that you liked, and paste in your favorite passage from the transcript that is shown below the video player."-->
 
