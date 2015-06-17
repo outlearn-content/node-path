@@ -37,6 +37,8 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 <!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions and paste it here."-->
 
+<!-- @section -->
+
 # Find Another Awesome Node.js Video
 
 Now that you have watched these videos, it's time for you to give back. Visit the link below to view other videos about Node.js, then come back and contribute it for consideration in future learning paths about Node.js.
