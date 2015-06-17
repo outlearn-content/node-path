@@ -25,7 +25,7 @@ We're going to cover the difference between JavaScript in a browser vs JavaScrip
 
 To wrap it up, we're going to spin up a quick web server in Node.js just to show you how easy it is.
 
-< !-- @task, "hasDeliverable" : true, "text" : "Write a one paragraph summary of what Node.js is and paste it here."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Write a one paragraph summary of what Node.js is and paste it here."-->
 
 
 <!-- @section -->
@@ -36,4 +36,4 @@ To wrap it up, we're going to spin up a quick web server in Node.js just to show
 
 This video is an introduction to Node.js using the latest updates to the Express.js framework. Node.js is an amazing web framework that makes web development and engineering tons of fun.
 
-< !-- @task, "hasDeliverable" : true, "text" : "Write your impression of Node.js now that you have seen it in action."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Write your impression of Node.js now that you have seen it in action."-->
