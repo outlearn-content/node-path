@@ -1,5 +1,5 @@
 <!--
-name: node-video
+name: node-resources
 version : 0.0.1
 title : "Node.js Learning Resources"
 description: "This module provides links to additional Node.js learning resources. "
