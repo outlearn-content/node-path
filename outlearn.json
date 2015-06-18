@@ -18,6 +18,7 @@
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
+        {"module" : "node-resources"},
         {"page" : "./pages/live-long.md"}
       ]
     }
