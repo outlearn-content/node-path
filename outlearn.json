@@ -9,7 +9,7 @@
       "privacy" : "public",
       "socialBar" : true,
       "coverImage" : "https://www.evernote.com/l/AAOSVyPk9O9E3q0MvmZWGYqr_-244XhhBgUB/image.png",
-      "coverColor" : "#83CD29",
+      "coverColor" : "#5b8f1c",
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "mozilla-developer-network/re-introduction"},
