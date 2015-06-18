@@ -36,4 +36,7 @@ Here are some video courses on advanced Node.js topics like design patterns , se
 
 <!-- @link, "url" : "http://www.pluralsight.com/courses/node-application-patterns" -->
 
+<!-- @link, "url" : "http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs" -->
+
+
 
