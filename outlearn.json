@@ -8,7 +8,7 @@
       "description" : "Node.js is an increasingly popular platform for writing real-time application backends in JavaScript. This learning path is designed to teach experienced software engineers how to learn Node.js productively and avoid common pitfalls. We'll also bring you up to speed on the latest developments in the Node.js community and suggest additional resources for future learning.",
       "privacy" : "public",
       "socialBar" : true,
-      "coverImage" : "https://farm8.staticflickr.com/7216/7219422352_88fb8e8fbb_o.png",
+      "coverImage" : "https://blogs.nottingham.ac.uk/makingsciencepublic/files/2014/04/Gephi-map-for-blog.jpg",
       "coverColor" : "#5b8f1c",
       "pages" : [
         {"page" : "./pages/welcome.md"},
