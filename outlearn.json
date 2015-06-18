@@ -8,7 +8,7 @@
       "description" : "Node.js is an increasingly popular platform for writing real-time application backends in JavaScript. This path will help you understand what makes Node.js special, walk you through the development of your first Node.js app, and help you avoid common pitfalls that cause new Node.js to stumble.",
       "privacy" : "public",
       "socialBar" : true,
-      "coverImage" : "https://www.evernote.com/l/AAOSVyPk9O9E3q0MvmZWGYqr_-244XhhBgUB/image.png",
+      "coverImage" : "https://www.evernote.com/l/AAM1a375exNEjY4ICd5nIO8XmYEUREI7YXgB/image.png",
       "coverColor" : "#5b8f1c",
       "pages" : [
         {"page" : "./pages/welcome.md"},
