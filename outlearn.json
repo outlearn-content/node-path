@@ -8,6 +8,8 @@
       "description" : "Follow the node path to greater enlightenment.",
       "privacy" : "public",
       "socialBar" : true,
+      "coverImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2000px-Node.js_logo.svg.png",
+      "coverColor" : "#83CD29",
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "mozilla-developer-network/re-introduction"},
