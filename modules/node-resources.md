@@ -15,7 +15,7 @@ freshnessDate : 2015-06-18
 
 Here are some video courses on Node.js special topics like testing, security, etc.
 
-<!-- @link, "url" : "http://www.lynda.com/Node.js-tutorials/Test-Driven-Development-Node.js/" -->
+<!-- @link, "url" : "http://www.lynda.com/Node.js-tutorials/Test-Driven-Development-Node.js/383527-2.html" -->
 
 <!-- @section -->
 
