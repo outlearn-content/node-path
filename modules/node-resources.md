@@ -19,7 +19,7 @@ Here are some video courses on Node.js special topics like testing, security, et
 
 <!-- @link, "url" : "http://www.pluralsight.com/courses/unit-testing-nodejs" -->
 
-<!-- @link, "url" : "http://nodejs.org" -->
+<!-- @link, "url" : "https://nodejs.org" -->
 
 <!-- @link, "url" : "https://www.safaribooksonline.com/library/view/nodejs-recipes-a/9781430260585/9781430260585_Ch06.xhtml" -->
 
