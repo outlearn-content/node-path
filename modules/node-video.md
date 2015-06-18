@@ -36,15 +36,3 @@ This video is an introduction to Node.js using the latest updates to the Express
 <!-- @task, "hasDeliverable" : false, "text" : "Watch the Node.js for beginners 2014 video."-->
 
 <!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions and paste it here."-->
-
-<!-- @section -->
-
-# Node.js on the Road: The State of Node.js & Beyond
-
-Now that you have watched the intro videos, it's time for you to learn a little bit about the future of Node.js and its community.
-
-<!-- @link, "url" : "http://www.slideshare.net/sh1mmer/a-million-connections-and-beyond-nodejs-at-scale", "text": "Watch The State of Node.js & Beyond" -->
-
-
-<!-- @task, "hasDeliverable" : true, "text" : "Write a paragraph of what you learned from The State of Node.js & Beyond."-->
-
