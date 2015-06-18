@@ -27,6 +27,8 @@
   "modules" : [
     {
       "olm" : "./modules/node-video.md"
+    },
+    {
       "olm" : "./modules/node-resources.md"
     }
   ],
