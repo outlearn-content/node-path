@@ -28,14 +28,14 @@ Here are some video courses on Node.js special topics like testing, security, et
 
 # Advanced Node.js Learning Resources
 
-Here are some video courses on advanced Node.js topics like design patterns , security, etc.
+Here are some video courses on advanced Node.js topics like design patterns and continuous integration.
 
-<!-- @link, "url" : "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" -->
 
-<!-- @link, "url" : "https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/" -->
+[![Essential JavaScript Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/js-design-patterns-cover.jpg)]("http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-<!-- @link, "url" : "http://www.pluralsight.com/courses/node-application-patterns" -->
+[![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/)
 
-<!-- @link, "url" : "" -->
+[![Pluralsight: Node Application Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-application-patterns.png)](http://www.pluralsight.com/courses/node-application-patterns)
+
 
 [![Pluralsight: Continuous Integration and Deployment for AngularJS and Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs)
