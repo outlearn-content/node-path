@@ -36,6 +36,17 @@ This video is an introduction to Node.js using the latest updates to the Express
 <!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions and paste it here."-->
 
 <!-- @section -->
+# Node.js Tutorial for Beginners 2014 - An Introduction to Node.js with Express.js
+
+This video is an introduction to Node.js using the latest updates to the Express.js framework. Node.js is an amazing web framework that makes web development and engineering tons of fun.
+
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/FqMIyTH9wSg" -->
+
+<!-- @task, "hasDeliverable" : false, "text" : "Watch the Node.js for beginners 2014 video."-->
+
+<!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions and paste it here."-->
+
+<!-- @section -->
 # Node.js at PayPal - Clash of the Titans: Releasing the Kraken
 
 This video takes you inside the introduction of Node.js to PayPal. It's a fantastic 15 minutes of detailed context for what it is like for a large organization with a lot of existing code to adopt Node.js.
