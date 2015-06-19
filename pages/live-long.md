@@ -1,4 +1,4 @@
-# Live Long and Prosper with Node
+# Live Long and Prosper with Node.js
 
 Thanks for taking the path.  Hope you found it at least somewhat useful.  Now go forth with Node.js!
 
@@ -7,3 +7,5 @@ Thanks for taking the path.  Hope you found it at least somewhat useful.  Now go
 When you reach the end, please tweet about your new Node-Fu and copy me @trulybobloblaw.
 
 Bob Loblaw
+VP of Engineering
+SuperMegaCorp
