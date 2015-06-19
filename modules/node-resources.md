@@ -15,11 +15,12 @@ freshnessDate : 2015-06-18
 
 Here are some video courses on Node.js special topics like testing, security, etc.
 
-<!-- @link, "url" : "https://www.lynda.com/Node.js-tutorials/Test-Driven-Development-Node.js/383527-2.html" -->
+[![Test-Driven Development with Node.js](/assets/lynda-test-driven-developement-with-node.jpg)](http://www.lynda.com/Node.js-tutorials/Test-Driven-Development-Node.js/383527-2.html)
+
+
 
 <!-- @link, "url" : "http://www.pluralsight.com/courses/unit-testing-nodejs" -->
 
-<!-- @link, "url" : "https://nodejs.org" -->
 
 <!-- @link, "url" : "https://www.safaribooksonline.com/library/view/nodejs-recipes-a/9781430260585/9781430260585_Ch06.xhtml" -->
 
@@ -39,6 +40,3 @@ Here are some video courses on advanced Node.js topics like design patterns , se
 <!-- @link, "url" : "http://www.pluralsight.com/courses/node-application-patterns" -->
 
 <!-- @link, "url" : "http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs" -->
-
-
-
