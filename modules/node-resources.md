@@ -1,7 +1,7 @@
 <!--
 name: node-resources
 version : 0.0.1
-title : "Node.js Learning Resources"
+title : "Next Steps for Node.js Learning"
 description: "This module provides links to additional Node.js learning resources. "
 homepage : "https://pilot.outlearn.com/user/25"
 author : "Jeff Whatcott"
