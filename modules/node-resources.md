@@ -22,9 +22,7 @@ Here are some video courses on Node.js special topics like testing, security, et
 [![Safari Books Online: Test-Driven Development with Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/safari-nodejs-recipes-ch6-security-cryptography.jpg)](https://www.safaribooksonline.com/library/view/nodejs-recipes-a/9781430260585/9781430260585_Ch06.xhtml)
 
 [![Safari Books Online: Node Security](https://raw.githubusercontent.com/sigma512/node-path/master/assets/safari-node-security.jpg)](https://www.safaribooksonline.com/library/view/node-security/9781783281497)
-
-<!-- @link, "url" : "" -->
-
+ 
 
 <!-- @section -->
 
