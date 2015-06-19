@@ -29,7 +29,7 @@ So, here's a Node.js introduction for those who have no idea what it is. We're g
 
 This video is an introduction to Node.js using the latest updates to the Express.js framework. Node.js is an amazing web framework that makes web development and engineering tons of fun.
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/FqMIyTH9wSg" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=tZWGb0HU2QM" -->
 
 <!-- @task, "hasDeliverable" : false, "text" : "Watch the Node.js for beginners 2014 video."-->
 
