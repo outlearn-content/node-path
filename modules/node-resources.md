@@ -31,7 +31,7 @@ Here are some video courses on Node.js special topics like testing, security, et
 Here are some video courses on advanced Node.js topics like design patterns and continuous integration.
 
 
-[![Essential JavaScript Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/learning-js-design-patterns.png)]("http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+[![Essential JavaScript Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/learning-js-design-patterns.jpg)]("http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/)
 
