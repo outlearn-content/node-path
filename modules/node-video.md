@@ -40,7 +40,7 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 This video takes you inside the introduction of Node.js to PayPal. It's a fantastic 15 minutes of detailed context for what it is like for a large organization with a lot of existing code to adopt Node.js.
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=tZWGb0HU2QM" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/FqMIyTH9wSg" -->
 
 <!-- @task, "hasDeliverable" : false, "text" : "Watch the Node.js at PayPal - Clash of the Titans: Releasing the Kraken video."-->
 
