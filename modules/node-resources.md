@@ -17,7 +17,7 @@ Here are some video courses on Node.js special topics like testing, security, et
 
 [![Test-Driven Development with Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/lynda-test-driven-developement-with-node.jpg)](http://www.lynda.com/Node.js-tutorials/Test-Driven-Development-Node.js/383527-2.html)
 
-<!-- @link, "url" : "https://nodejs.org", "text" : "Install Node.js for your operating system." -->
+<!-- @link, "url" : "http://nodejs.org", "text" : "Install Node.js for your operating system." -->
 
 
 <!-- @link, "url" : "http://www.pluralsight.com/courses/unit-testing-nodejs" -->
