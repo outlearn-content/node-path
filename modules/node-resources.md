@@ -22,7 +22,7 @@ Here are some video courses on Node.js special topics like testing, security, et
 [![Safari Books Online: Test-Driven Development with Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/safari-nodejs-recipes-ch6-security-cryptography.jpg)](https://www.safaribooksonline.com/library/view/nodejs-recipes-a/9781430260585/9781430260585_Ch06.xhtml)
 
 [![Safari Books Online: Node Security](https://raw.githubusercontent.com/sigma512/node-path/master/assets/safari-node-security.jpg)](https://www.safaribooksonline.com/library/view/node-security/9781783281497)
- 
+
 
 <!-- @section -->
 
@@ -36,4 +36,6 @@ Here are some video courses on advanced Node.js topics like design patterns , se
 
 <!-- @link, "url" : "http://www.pluralsight.com/courses/node-application-patterns" -->
 
-<!-- @link, "url" : "http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs" -->
+<!-- @link, "url" : "" -->
+
+[![Pluralsight: Continuous Integration and Deployment for AngularJS and Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs)
