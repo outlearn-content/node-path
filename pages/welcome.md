@@ -10,6 +10,6 @@ We'll start with a Re-introduction to JavaScript for those who've been stuck in 
 
 Good luck!
 
-Bob Loblaw
-VP Engineering
+Bob Loblaw  
+VP Engineering  
 SuperMegaCorp
