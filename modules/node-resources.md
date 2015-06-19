@@ -15,17 +15,15 @@ freshnessDate : 2015-06-18
 
 Here are some video courses on Node.js special topics like testing, security, etc.
 
-[![Test-Driven Development with Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/lynda-test-driven-developement-with-node.jpg)](http://www.lynda.com/Node.js-tutorials/Test-Driven-Development-Node.js/383527-2.html)
+[![Lynda.com: Test-Driven Development with Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/lynda-test-driven-developement-with-node.jpg)](http://www.lynda.com/Node.js-tutorials/Test-Driven-Development-Node.js/383527-2.html)
 
-<!-- @link, "url" : "http://nodejs.org", "text" : "Install Node.js for your operating system." -->
+[![Pluralsight: Unit Testing with Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/courses_description_unit-testing-nodejs.jpg)](http://www.pluralsight.com/courses/unit-testing-nodejs)
 
+[![Safari Books Online: Test-Driven Development with Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/safari-nodejs-recipes-ch6-security-cryptography.jpg)](https://www.safaribooksonline.com/library/view/nodejs-recipes-a/9781430260585/9781430260585_Ch06.xhtml)
 
-<!-- @link, "url" : "http://www.pluralsight.com/courses/unit-testing-nodejs" -->
+[![Safari Books Online: Node Security](https://raw.githubusercontent.com/sigma512/node-path/master/assets/safari-node-security.jpg)](https://www.safaribooksonline.com/library/view/node-security/9781783281497)
 
-
-<!-- @link, "url" : "https://www.safaribooksonline.com/library/view/nodejs-recipes-a/9781430260585/9781430260585_Ch06.xhtml" -->
-
-<!-- @link, "url" : "https://www.safaribooksonline.com/library/view/node-security/9781783281497" -->
+<!-- @link, "url" : "" -->
 
 
 <!-- @section -->
