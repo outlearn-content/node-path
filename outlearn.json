@@ -13,7 +13,7 @@
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "mozilla-developer-network/re-introduction"},
-        {"module" : "learncodeacademy/node-video"},
+        {"module" : "asinkronos/node-video"},
         {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
