@@ -7,7 +7,6 @@
       "title" : "JavaScript Backends with Node.js",
       "description" : "Node.js is an increasingly popular platform for writing real-time application backends in JavaScript.",
       "privacy" : "public",
-      "socialBar" : true,
       "coverImage" : "https://blogs.nottingham.ac.uk/makingsciencepublic/files/2014/04/Gephi-map-for-blog.jpg",
       "coverColor" : "#5b8f1c",
       "pages" : [
