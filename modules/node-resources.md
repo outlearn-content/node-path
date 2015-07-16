@@ -1,12 +1,14 @@
 <!--
-name: node-resources
-version : 0.0.1
-title : "Next Steps for Node.js Learning"
-description: "This module provides links to additional Node.js learning resources. "
-homepage : "https://pilot.outlearn.com/user/25"
-author : "Jeff Whatcott"
-license : "Creative Commons Attribution 4.0 International"
-freshnessDate : 2015-06-18
+{
+"name" : "node-resources",
+"version" : "0.0.1",
+"title" : "Next Steps for Node.js Learning",
+"description" : "This module provides links to additional Node.js learning resources. ",
+"homepage" : "https://pilot.outlearn.com/user/25",
+"author" : "Jeff Whatcott",
+"license" : "Creative Commons Attribution 4.0 International",
+"freshnessDate" : 2015-06-18
+}
 -->
 
 <!-- @section -->
