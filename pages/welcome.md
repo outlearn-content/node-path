@@ -11,7 +11,7 @@ We'll start with a Re-introduction to JavaScript for those who've been stuck in 
 Good luck!  
 Asin Kronos
 
-<img src="https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/watch.png" alt="Shield" style="width:250px;height:250px" align="left">
+<img src="https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/watch.png" alt="Watch" style="width:250px;height:250px" align="left">
 
 <br clear="all">
 
