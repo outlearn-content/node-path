@@ -1,11 +1,10 @@
 # Live Long and Prosper with Node.js
 
-Thanks for taking the path.  Hope you found it at least somewhat useful.  Now go forth with Node.js!
+Now you are done with the path and ready to go forth with Node.js!
 
 ![Prosper](http://media4.giphy.com/media/IL4iTvQH0MjS/200.gif)
 
-When you reach the end, please tweet about your new Node-Fu and copy me @trulybobloblaw.
+I'm always looking to polish the learning resources here. If you have any feedback, do reach out with the feedback widget on the right side of the screen.
 
-Bob Loblaw  
-VP of Engineering  
-SuperMegaCorp  
+Happy coding!  
+Asin Kronos
