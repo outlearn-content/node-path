@@ -5,7 +5,6 @@
 "title" : "Next Steps for Node.js Learning",
 "description" : "This module provides links to additional Node.js learning resources. ",
 "homepage" : "https://pilot.outlearn.com/user/25",
-"author" : "Jeff Whatcott",
 "license" : "Creative Commons Attribution 4.0 International",
 "freshnessDate" : 2015-06-18
 }
@@ -33,11 +32,11 @@ Here are some video courses on Node.js special topics like testing, security, et
 Here are some video courses on advanced Node.js topics like design patterns and continuous integration.
 
 
-[![Essential JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg)](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+[![Essential JavaScript Design Patterns](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/node-design-patterns.png)](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-[![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/)
+[![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/node-ci.png)](https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/)
 
-[![Pluralsight: Node Application Patterns](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-application-patterns.png)](http://www.pluralsight.com/courses/node-application-patterns)
+[![Pluralsight: Node Application Patterns](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/node-application-patterns.png)](http://www.pluralsight.com/courses/node-application-patterns)
 
 
-[![Pluralsight: Continuous Integration and Deployment for AngularJS and Node.js](https://raw.githubusercontent.com/sigma512/node-path/master/assets/node-ci.png)](http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs)
+[![Pluralsight: Continuous Integration and Deployment for AngularJS and Node.js](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/node-ci.png)](http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs)
