@@ -12,6 +12,23 @@
 
 <!-- @section -->
 
+# Event Loop and Asynchronous Programming
+
+If you want to get a bit deeper into understanding the Node.js event loop, check out this great post by Trevor Norris.
+
+[![Understanding the Node.js Event Loop](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/trevornorris-nodejs-eventloop.png)](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
+
+For a clear explanation of asynchronous programming with promises and generators, you should take a look at this post by Colin Toh.
+
+[![Staying Sane With Asynchronous Programming: Promises and Generators](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/colintoh-asynchronous.png)](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators)
+
+And if you want to put these things to practice, include the Q.js library in your project.
+
+[![A tool for creating and composing asynchronous promises in JavaScript](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/q-logo.png)](https://github.com/kriskowal/q)
+
+
+<!-- @section -->
+
 # Video Courses on Node.js Special Topics
 
 Here are some video courses on Node.js special topics like testing, security, etc.
