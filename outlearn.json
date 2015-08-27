@@ -18,6 +18,7 @@
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
+        {"module" : "lidmx/deploy-to-heroku"},
         {"module" : "node-resources"},
         {"page" : "./pages/live-long.md"}
       ]
