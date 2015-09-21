@@ -9,14 +9,8 @@ The path includes content from a variety of sources. Some are openly licensed an
 We'll start with a Re-introduction to JavaScript for those who've been stuck in other languages for too long, and then we'll get right into the meat of Node.js server-side framework. At the end I'll give you an overview of where to learn more about several advanced topics in Node.js.
 
 Good luck!  
-Asin Kronos
+Faisal Abid
 
-<img src="https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/watch.png" alt="Watch" style="width:250px;height:250px" align="left">
+<img src="https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/faisalabid.jpg" alt="Faisal Abid" style="width:250px;height:250px" align="left">
 
 <br clear="all">
-
-**About the Author:**
-
-Asin Kronos is one of the developer superheroes who like to hang out at Outlearn and is Outlearn's resident expert on Node.js.
-
-Asin Kronos can connect her psyche with the bioelectric rhythms of both humans and animals. By building a mental connection with another being, she can communicate in an unconstrained flow of pure consciousness.
