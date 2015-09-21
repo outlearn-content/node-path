@@ -11,6 +11,4 @@ We'll start with a Re-introduction to JavaScript for those who've been stuck in 
 Good luck!  
 Faisal Abid
 
-<img src="https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/faisalabid.jpg" alt="Faisal Abid" style="width:200px;height:200px" align="left">
-
-<br clear="all">
+<img src="https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/faisalabid.jpg" alt="Faisal Abid" style="width:250px;height:250px" align="left">
