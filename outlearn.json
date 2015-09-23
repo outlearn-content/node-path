@@ -6,6 +6,7 @@
       "name" : "node-path",
       "title" : "JavaScript Backends with Node.js",
       "description" : "Get started with the basics of Node.js, a platform for using JavaScript beyond the browser. Then move on to some pro tips, learn how to install awesome packages, and find out how to continue your learning.",
+      "tags" : "node.js",
       "privacy" : "public",
       "socialBar" : false,
       "coverImage" : "https://blogs.nottingham.ac.uk/makingsciencepublic/files/2014/04/Gephi-map-for-blog.jpg",
