@@ -52,7 +52,6 @@ Here are some video courses on advanced Node.js topics like design patterns and 
 
 [![Safari Books Online: Node:js Design Patterns](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/node-design-patterns.png)](https://www.safaribooksonline.com/library/view/nodejs-design-patterns/9781783287314/)
 
-[![Pluralsight: Node Application Patterns](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/node-application-patterns.png)](http://www.pluralsight.com/courses/node-application-patterns)
+<!-- @resource, "url" : "http://www.pluralsight.com/courses/node-application-patterns" -->
 
-
-[![Pluralsight: Continuous Integration and Deployment for AngularJS and Node.js](https://raw.githubusercontent.com/outlearn-content/node-path/master/assets/node-ci.png)](http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs)
+<!-- @resource, "url" : "http://www.pluralsight.com/courses/description/continuous-integration-deployment-angularjs-nodejs" -->
