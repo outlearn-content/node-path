@@ -13,8 +13,8 @@
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "mozilla-developer-network/re-introduction"},
-        {"module" : "outlearn/node-video"},
-        {"module" : "outlearn/eloquent-node"},
+        {"module" : "jwhatcott/node-video"},
+        {"module" : "marijnhaverbeke/eloquent-node"},
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
